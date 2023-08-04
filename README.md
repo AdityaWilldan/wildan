@@ -1,9 +1,7 @@
-
-![readmebox](https://github.com/AdityaWilldan/wildan/assets/121347820/84f582dc-e87e-44be-8de9-5cc7e9a27501)
 <h1 align="center">Hi 👋, I'm Wildan</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
 
-<img align ="right" alt="coding" width="400" src"">
+<img align ="right" alt="coding" width="400" src"https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityawilldan&label=Profile%20views&color=0e75b6&style=flat" alt="adityawilldan" /> </p>
 
